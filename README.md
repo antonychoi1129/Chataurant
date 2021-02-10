@@ -10,4 +10,4 @@ How to use:
 
 Code:
 1. chatbot: Webhook server for Line with Express.js
-2. spiders: Web scraping for restaurants data from openrice
+2. spiders: Web scraping for restaurants data from openrice with Python Scrapy
